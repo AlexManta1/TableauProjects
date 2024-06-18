@@ -71,17 +71,17 @@ Following inferences can be drawn from the dashboard;
            
 ### [2] Rent price and profit per season
 
-    From the data analyzed we can see that there is not much activity from the beginning of January and all the way to March as usually people travel towards the end of the year, especially during winter holidays and during the summer for vacations, which could be seen reflected into the trend.
-    The revenue for the month of December 2016 is double compared to the revenue from the month of January 2016.
+From the data analyzed we can see that there is not much activity from the beginning of January and all the way to March as usually people travel towards the end of the year, especially during winter holidays and during the summer for vacations, which could be seen reflected into the trend.
+The revenue for the month of December 2016 is double compared to the revenue from the month of January 2016.
   
   ### [3] Number of bedrooms and if that's a price factor
   
-      The apartments with the most revenue recorded are the one with 1 bedroom followed by the ones with 2 bedrooms with half of the revenue. The apartments which bring the least revenue are the ones with 6 bedrooms.
-      In terms of price per night, the number of bedroom is a significant factor as it is more bedrooms a house has, the pricier it gets.
+The apartments with the most revenue recorded are the one with 1 bedroom followed by the ones with 2 bedrooms with half of the revenue. The apartments which bring the least revenue are the ones with 6 bedrooms.
+In terms of price per night, the number of bedroom is a significant factor as it is more bedrooms a house has, the pricier it gets.
 
-      Average price per 1 bedroom: $96.2 
-      Average price per 2 bedroom: $175.4
-      Average price per 3 bedroom: $249.7
-      Average price per 4 bedroom: $315.4
-      Average price per 5 bedroom: $450.1
-      Average price per 6 bedroom: $584.8
+Average price per 1 bedroom: $96.2 
+Average price per 2 bedroom: $175.4
+Average price per 3 bedroom: $249.7
+Average price per 4 bedroom: $315.4
+Average price per 5 bedroom: $450.1
+Average price per 6 bedroom: $584.8
