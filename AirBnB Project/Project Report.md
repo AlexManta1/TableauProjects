@@ -80,8 +80,13 @@ The apartments with the most revenue recorded are the one with 1 bedroom followe
 In terms of price per night, the number of bedroom is a significant factor as it is more bedrooms a house has, the pricier it gets.
 
 Average price per 1 bedroom: $96.2 
+
 Average price per 2 bedroom: $175.4
+
 Average price per 3 bedroom: $249.7
+
 Average price per 4 bedroom: $315.4
+
 Average price per 5 bedroom: $450.1
+
 Average price per 6 bedroom: $584.8
