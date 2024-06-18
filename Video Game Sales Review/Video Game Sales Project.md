@@ -61,12 +61,12 @@ Following inferences can be drawn from the dashboard;
            
 ### [2] Sales by genre
 
-    The most profitable genres since the beginning of the games creation has been Action, followed by Sport and Shooter. The less prefered genres are Puzzle, Adventure and Strategy. 
+The most profitable genres since the beginning of the games creation has been Action, followed by Sport and Shooter. The less prefered genres are Puzzle, Adventure and Strategy. 
   
   ### [3] Sales by location
-    We have focused specifically on the US due to the nature of the project and customer requirements. 
-    In terms of location, New Jersey has brought the most profits.New Jersey is the most densely populated state in the country, so it makes sense that the popularity extends to the video game world as well.
+We have focused specifically on the US due to the nature of the project and customer requirements. 
+In terms of location, New Jersey has brought the most profits.New Jersey is the most densely populated state in the country, so it makes sense that the popularity extends to the video game world as well.
 
-    Plenty of video games call the Garden State home, including action and sports games, spinoffs of notable New Jersey-set movies and TV shows, and even one named for a certain Atlantic City casino owner turned U.S. president.
+Plenty of video games call the Garden State home, including action and sports games, spinoffs of notable New Jersey-set movies and TV shows, and even one named for a certain Atlantic City casino owner turned U.S. president.
   
       
